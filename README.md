@@ -2,4 +2,4 @@
 
 Assignment 2: 3d Prototype
 
-A simple 3d game prototype built in Unity.
+A rebuilt of the classic Pong game but in 3D using the Unity game engine.
